@@ -1,4 +1,4 @@
-# Head
+# 2.3.7
 
 * Fixed: `function-calc-no-unspaced-operator` ignores characters in `$sass` and `@less` variables.
 * Fixed: `rule-properties-order` allows comments at the top of groups that expect newlines before them.
