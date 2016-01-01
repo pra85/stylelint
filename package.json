@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "docs": "node ./tasks/process-docs"
+  },
+  "devDependencies": {
+    "glob": "^6.0.3"
+  }
+}
