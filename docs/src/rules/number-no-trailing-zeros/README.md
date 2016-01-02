@@ -1,0 +1,35 @@
+---
+layout: page
+title: # number-no-trailing-zeros
+permalink: docs/src/rules/number-no-trailing-zeros/README/
+---
+
+# number-no-trailing-zeros
+
+Disallow trailing zeros within numbers.
+
+```css
+    a { top: 0.5000px; bottom: 1.0px; }
+/**              ↑               ↑
+ *            These trailing zeros */
+```
+
+The following patterns are considered warnings:
+
+```css
+a { top: 1.0px }
+```
+
+```css
+a { top: 1.01000px }
+```
+
+The following patterns are *not* considered warnings:
+
+```css
+a { top: 1px }
+```
+
+```css
+a { top: 1.01px }
+```

@@ -1,0 +1,44 @@
+---
+layout: page
+title: # declaration-block-single-line-max-declarations
+permalink: docs/src/rules/declaration-block-single-line-max-declarations/README/
+---
+
+# declaration-block-single-line-max-declarations
+
+Limit the number of declaration within a single line declaration block.
+
+## Options
+
+`int`: Maximum number of declarations allowed.
+
+For example, with `1`:
+
+The following patterns are considered warnings:
+
+```css
+a { color: pink; top: 3px; }
+```
+
+```css
+a,
+b { color: pink; top: 3px; }
+```
+
+The following patterns are *not* considered warnings:
+
+```css
+a { color: pink; }
+```
+
+```css
+a,
+b { color: pink; }
+```
+
+```css
+a {
+  color: pink;
+  top: 3px;
+}
+```

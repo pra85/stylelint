@@ -1,0 +1,67 @@
+---
+layout: page
+title: # media-feature-colon-space-before
+permalink: docs/src/rules/media-feature-colon-space-before/README/
+---
+
+# media-feature-colon-space-before
+
+Require a single space or disallow whitespace before the colon in media features.
+
+```css
+    @media (max-width :600px) {}
+/**                   ↑
+ * The space before this colon */
+```
+
+## Options
+
+`string`: `"always"|"never"`
+
+### `"always"`
+
+There *must always* be a single space before the colon.
+
+The following patterns are considered warnings:
+
+```css
+@media (max-width:600px) {}
+```
+
+```css
+@media (max-width: 600px) {}
+```
+
+The following patterns are *not* considered warnings:
+
+```css
+@media (max-width :600px) {}
+```
+
+```css
+@media (max-width : 600px) {}
+```
+
+### `"never"`
+
+There *must never* be whitespace before the colon.
+
+The following patterns are considered warnings:
+
+```css
+@media (max-width :600px) {}
+```
+
+```css
+@media (max-width : 600px) {}
+```
+
+The following patterns are *not* considered warnings:
+
+```css
+@media (max-width:600px) {}
+```
+
+```css
+@media (max-width: 600px) {}
+```
