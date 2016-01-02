@@ -18,4 +18,4 @@ permalink: docs/user-guide/
 * [Rules](/docs/user-guide/rules) - a list of all the rules that are available to you, and an explanation of the naming convention.
 * [Plugins](/docs/user-guide/plugins) - a brief introduction to plugins, followed by a list of what's available.
 * [CSS Processors](/docs/user-guide/css-processors) - how to use the linter with CSS processors.
-* [Complementary Tools](/docs/user-guide/complementary-tools.md) - editor plugins (e.g. Atom and Sublime) and other linters.
+* [Complementary Tools](/docs/user-guide/complementary-tools) - editor plugins (e.g. Atom and Sublime) and other linters.

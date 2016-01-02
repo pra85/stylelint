@@ -39,7 +39,7 @@ Here are all the rules within stylelint, grouped by the [_thing_](http://apps.wo
 * [`function-comma-newline-before`](../../src/rules/function-comma-newline-before/README): Require a newline or disallow whitespace before the commas of functions.
 * [`function-comma-space-after`](../../src/rules/function-comma-space-after/README): Require a single space or disallow whitespace after the commas of functions.
 * [`function-comma-space-before`](../../src/rules/function-comma-space-before/README): Require a single space or disallow whitespace before the commas of functions.
-* [`function-linear-gradient-no-nonstandard-direction`](../../src/rules/function-linear-gradient-no-nonstandard-direction/README.md): Disallow direction values in `linear-gradient()` calls that are not valid according to the [standard syntax](https://developer.mozilla.org/en-US/docs/Web/CSS/linear-gradient#Syntax).
+* [`function-linear-gradient-no-nonstandard-direction`](../../src/rules/function-linear-gradient-no-nonstandard-direction/README): Disallow direction values in `linear-gradient()` calls that are not valid according to the [standard syntax](https://developer.mozilla.org/en-US/docs/Web/CSS/linear-gradient#Syntax).
 * [`function-parentheses-newline-inside`](../../src/rules/function-parentheses-newline-inside/README): Require a newline or disallow whitespace on the inside of the parentheses of functions.
 * [`function-parentheses-space-inside`](../../src/rules/function-parentheses-space-inside/README): Require a single space or disallow whitespace on the inside of the parentheses of functions.
 * [`function-url-quotes`](../../src/rules/function-url-quotes/README): Specify single, double or no quotes for urls.
