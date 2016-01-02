@@ -1,6 +1,6 @@
 var fs = require('fs');
-var buildFrontMatter = require('./lib/buildFrontMatter');
-var prependFrontMatter = require('./lib/prependFrontMatter');
+var buildFrontMatter = require('./buildFrontMatter');
+var prependFrontMatter = require('./prependFrontMatter');
 
 module.exports = function (paths, properties) {
   paths.forEach(function (p) {
