@@ -7,7 +7,7 @@ git co master -- src/rules
 git checkout src
 git reset src
 
+rm -rf docs/src
 mv src docs
 rm -rf docs/src/rules/**/__tests__
 rm -rf docs/src/rules/**/*.js
-rm -rf src/
