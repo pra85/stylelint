@@ -30,7 +30,7 @@ The configuration object can have the following properties. Only `rules` is requ
 
 ### `rules`
 
-[Rules](/docs/user-guide/rules.md) determine what the linter looks for and complains about.
+[Rules](/docs/user-guide/rules) determine what the linter looks for and complains about.
 *No rules are turned on by default*, so this is where you turn on everything you want to check.
 
 **The `rules` property is an object whose keys are rule names and values are rule configurations.**
@@ -131,7 +131,7 @@ Or starting with `stylelint-config-suitcss`, then extending layering `myExtendab
 
 ### `plugins`
 
-[Plugins](/docs/user-guide/plugins.md) are userland rules that support _non-standard_ CSS features, or very specific use cases. To use one, add a `"plugins"` array to your config, containing "locaters" identifying the plugins you want to use.
+[Plugins](/docs/user-guide/plugins) are userland rules that support _non-standard_ CSS features, or very specific use cases. To use one, add a `"plugins"` array to your config, containing "locaters" identifying the plugins you want to use.
 As with `extends`, above, a "locater" can be either an npm module name, an absolute path, or a path relative to the invoking configuration file.
 
 Once the plugin is declared, within your `"rules"` object you can add settings for the plugin's rule just like any standard rule. You will have to look at the plugin's documentation to know what the rule name should be.
@@ -160,7 +160,7 @@ The `ignoreFiles` property is stripped from extended configs: only the root-leve
 
 ## Configuring rules
 
-[Rules](/docs/user-guide/rules.md) are built into the linter and focus on _standard_ CSS. They are configured within the `rules` key of the config.
+[Rules](/docs/user-guide/rules) are built into the linter and focus on _standard_ CSS. They are configured within the `rules` key of the config.
 
 ### Turning rules on and off
 

@@ -6,7 +6,7 @@ permalink: docs/user-guide/plugins/
 
 # Plugins
 
-Plugins share all the same traits and conventions as [rules](/docs/user-guide/rules.md), except they are prefixed by "stylelint".
+Plugins share all the same traits and conventions as [rules](/docs/user-guide/rules), except they are prefixed by "stylelint".
 
 ## Selector
 

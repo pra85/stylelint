@@ -6,7 +6,7 @@ permalink: docs/developer-guide/rules/
 
 # Writing rules
 
-Have a look at the [rules guide](/docs/user-guide/rules.md) to familiarize yourself the rule naming conventions.
+Have a look at the [rules guide](/docs/user-guide/rules) to familiarize yourself the rule naming conventions.
 
 ## Let everyone know
 
