@@ -1,6 +1,8 @@
 {
   "scripts": {
-    "docs": "node ./tasks/process-docs",
+    "update-files": "sh ./tasks/update-files.sh",
+    "process-docs": "node ./tasks/process-docs",
+    "docs": "npm run update-files && npm run process-docs",
     "start": "jekyll serve"
   },
   "devDependencies": {

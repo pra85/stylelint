@@ -3,12 +3,15 @@ var processIndexes = require('./lib/processIndexes');
 var processFrontMatter = require('./lib/processFrontMatter');
 var processLinks = require('./lib/processLinks');
 
-processFrontMatter(glob.sync('docs/**/*.md'));
-processFrontMatter(glob.sync('index.md'), {
+var rootFiles = ['index.md', 'CHANGELOG.md', 'CONTRIBUTING.md', 'LICENSE'];
+var docFiles = glob.sync('docs/**/*.md');
+
+processFrontMatter(docFiles);
+processFrontMatter(rootFiles, {
   layout: 'default'
 });
 
 processIndexes(glob.sync('docs/*'));
 
-processLinks(glob.sync('docs/**/*.md'));
-processLinks(glob.sync('index.md'));
+processLinks(docFiles);
+processLinks(rootFiles);
