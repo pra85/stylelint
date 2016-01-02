@@ -3,6 +3,7 @@ var glob = require('glob');
 var buildFrontMatter = require('./lib/buildFrontMatter');
 var prependFrontMatter = require('./lib/prependFrontMatter');
 
+// Regular docs files
 glob.sync('docs/**/*.md').forEach(function (p) {
   console.log('Processing', p);
 
@@ -12,7 +13,8 @@ glob.sync('docs/**/*.md').forEach(function (p) {
   fs.writeFileSync(p, newContents);
 });
 
-var paths = glob.sync('docs/*')
+// Docs indexes
+var paths = glob.sync('docs/*');
 paths.forEach(function (p) {
   var _path = p.replace('.md', '');
 
@@ -21,4 +23,16 @@ paths.forEach(function (p) {
 
     fs.renameSync(p, _path + '/index.md');
   }
+});
+
+// Links
+glob.sync('docs/**/*.md').forEach(function (p) {
+  console.log('Updating', p);
+
+  var contents = fs.readFileSync(p, 'utf-8');
+  var newContents = contents.replace(/(\[.*\])\((.*)\)/g, function (m1, m2, m3) {
+    return m2 + '(' + m3.replace(/\.md$/, '') + ')';
+  })
+
+  fs.writeFileSync(p, newContents);
 });
