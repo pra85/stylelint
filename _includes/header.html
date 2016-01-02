@@ -14,11 +14,11 @@
       </a>
 
       <div class="trigger">
-        {% for my_page in site.pages %}
-          {% if my_page.title %}
-          <a class="page-link" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
-          {% endif %}
-        {% endfor %}
+        <a href="/docs/user-guide" class="page-link">User Guide</a>
+        <a href="/docs/developer-guide" class="page-link">Developer Guide</a>
+        <a href="/docs/user-guide/rules" class="page-link">Rules</a>
+        <a href="/docs/user-guide/plugins" class="page-link">Plugins</a>
+        <a href="https://github.com/stylelint/stylelint" class="page-link">Github</a>
       </div>
     </nav>
 
