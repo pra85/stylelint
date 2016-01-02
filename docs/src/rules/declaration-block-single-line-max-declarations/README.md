@@ -1,6 +1,6 @@
 ---
 layout: page
-title: # declaration-block-single-line-max-declarations
+title: declaration-block-single-line-max-declarations
 permalink: docs/src/rules/declaration-block-single-line-max-declarations/README/
 ---
 

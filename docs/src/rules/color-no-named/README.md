@@ -1,6 +1,6 @@
 ---
 layout: page
-title: # color-no-named
+title: color-no-named
 permalink: docs/src/rules/color-no-named/README/
 ---
 

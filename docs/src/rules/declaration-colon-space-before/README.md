@@ -1,6 +1,6 @@
 ---
 layout: page
-title: # declaration-colon-space-before
+title: declaration-colon-space-before
 permalink: docs/src/rules/declaration-colon-space-before/README/
 ---
 

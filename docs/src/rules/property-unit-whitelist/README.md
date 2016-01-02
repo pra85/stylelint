@@ -1,6 +1,6 @@
 ---
 layout: page
-title: # property-unit-whitelist
+title: property-unit-whitelist
 permalink: docs/src/rules/property-unit-whitelist/README/
 ---
 

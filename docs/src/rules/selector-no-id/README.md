@@ -1,6 +1,6 @@
 ---
 layout: page
-title: # selector-no-id
+title: selector-no-id
 permalink: docs/src/rules/selector-no-id/README/
 ---
 

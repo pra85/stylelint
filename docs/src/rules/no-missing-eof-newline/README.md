@@ -1,6 +1,6 @@
 ---
 layout: page
-title: # no-missing-eof-newline
+title: no-missing-eof-newline
 permalink: docs/src/rules/no-missing-eof-newline/README/
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: # at-rule-empty-line-before
+title: at-rule-empty-line-before
 permalink: docs/src/rules/at-rule-empty-line-before/README/
 ---
 

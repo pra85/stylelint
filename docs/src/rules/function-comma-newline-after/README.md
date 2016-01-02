@@ -1,6 +1,6 @@
 ---
 layout: page
-title: # function-comma-newline-after
+title: function-comma-newline-after
 permalink: docs/src/rules/function-comma-newline-after/README/
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: # comment-empty-line-before
+title: comment-empty-line-before
 permalink: docs/src/rules/comment-empty-line-before/README/
 ---
 

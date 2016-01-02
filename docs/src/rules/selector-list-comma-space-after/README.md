@@ -1,6 +1,6 @@
 ---
 layout: page
-title: # selector-list-comma-space-after
+title: selector-list-comma-space-after
 permalink: docs/src/rules/selector-list-comma-space-after/README/
 ---
 

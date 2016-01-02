@@ -1,6 +1,6 @@
 ---
 layout: page
-title: # selector-combinator-space-after
+title: selector-combinator-space-after
 permalink: docs/src/rules/selector-combinator-space-after/README/
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: # selector-class-pattern
+title: selector-class-pattern
 permalink: docs/src/rules/selector-class-pattern/README/
 ---
 

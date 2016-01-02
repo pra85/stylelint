@@ -1,6 +1,6 @@
 ---
 layout: page
-title: # rule-trailing-semicolon
+title: rule-trailing-semicolon
 permalink: docs/src/rules/rule-trailing-semicolon/README/
 ---
 

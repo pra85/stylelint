@@ -1,6 +1,6 @@
 ---
 layout: page
-title: # media-query-list-comma-space-after
+title: media-query-list-comma-space-after
 permalink: docs/src/rules/media-query-list-comma-space-after/README/
 ---
 

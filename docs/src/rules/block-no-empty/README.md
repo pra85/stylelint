@@ -1,6 +1,6 @@
 ---
 layout: page
-title: # block-no-empty
+title: block-no-empty
 permalink: docs/src/rules/block-no-empty/README/
 ---
 

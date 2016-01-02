@@ -1,6 +1,6 @@
 ---
 layout: page
-title: # selector-id-pattern
+title: selector-id-pattern
 permalink: docs/src/rules/selector-id-pattern/README/
 ---
 

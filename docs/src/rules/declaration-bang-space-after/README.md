@@ -1,6 +1,6 @@
 ---
 layout: page
-title: # declaration-bang-space-after
+title: declaration-bang-space-after
 permalink: docs/src/rules/declaration-bang-space-after/README/
 ---
 

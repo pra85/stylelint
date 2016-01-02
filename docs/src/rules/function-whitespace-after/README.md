@@ -1,6 +1,6 @@
 ---
 layout: page
-title: # function-whitespace-after
+title: function-whitespace-after
 permalink: docs/src/rules/function-whitespace-after/README/
 ---
 

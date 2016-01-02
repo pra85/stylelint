@@ -1,6 +1,6 @@
 ---
 layout: page
-title: # rule-no-duplicate-properties
+title: rule-no-duplicate-properties
 permalink: docs/src/rules/rule-no-duplicate-properties/README/
 ---
 

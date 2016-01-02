@@ -1,6 +1,6 @@
 ---
 layout: page
-title: # custom-property-no-outside-root
+title: custom-property-no-outside-root
 permalink: docs/src/rules/custom-property-no-outside-root/README/
 ---
 

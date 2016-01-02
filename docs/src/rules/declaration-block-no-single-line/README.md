@@ -1,6 +1,6 @@
 ---
 layout: page
-title: # declaration-block-no-single-line
+title: declaration-block-no-single-line
 permalink: docs/src/rules/declaration-block-no-single-line/README/
 ---
 

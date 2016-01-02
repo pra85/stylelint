@@ -1,6 +1,6 @@
 ---
 layout: page
-title: # function-blacklist
+title: function-blacklist
 permalink: docs/src/rules/function-blacklist/README/
 ---
 

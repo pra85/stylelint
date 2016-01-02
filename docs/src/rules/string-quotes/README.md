@@ -1,6 +1,6 @@
 ---
 layout: page
-title: # string-quotes
+title: string-quotes
 permalink: docs/src/rules/string-quotes/README/
 ---
 

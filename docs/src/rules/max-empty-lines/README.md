@@ -1,6 +1,6 @@
 ---
 layout: page
-title: # max-empty-lines
+title: max-empty-lines
 permalink: docs/src/rules/max-empty-lines/README/
 ---
 

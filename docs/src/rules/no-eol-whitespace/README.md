@@ -1,6 +1,6 @@
 ---
 layout: page
-title: # no-eol-whitespace
+title: no-eol-whitespace
 permalink: docs/src/rules/no-eol-whitespace/README/
 ---
 

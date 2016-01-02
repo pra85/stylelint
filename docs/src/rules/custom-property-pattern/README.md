@@ -1,6 +1,6 @@
 ---
 layout: page
-title: # custom-property-pattern
+title: custom-property-pattern
 permalink: docs/src/rules/custom-property-pattern/README/
 ---
 

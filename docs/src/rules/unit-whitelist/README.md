@@ -1,6 +1,6 @@
 ---
 layout: page
-title: # unit-whitelist
+title: unit-whitelist
 permalink: docs/src/rules/unit-whitelist/README/
 ---
 

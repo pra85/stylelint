@@ -1,6 +1,6 @@
 ---
 layout: page
-title: # unit-blacklist
+title: unit-blacklist
 permalink: docs/src/rules/unit-blacklist/README/
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: # selector-pseudo-element-colon-notation
+title: selector-pseudo-element-colon-notation
 permalink: docs/src/rules/selector-pseudo-element-colon-notation/README/
 ---
 

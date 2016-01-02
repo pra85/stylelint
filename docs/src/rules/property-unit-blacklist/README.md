@@ -1,6 +1,6 @@
 ---
 layout: page
-title: # property-unit-blacklist
+title: property-unit-blacklist
 permalink: docs/src/rules/property-unit-blacklist/README/
 ---
 

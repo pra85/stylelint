@@ -1,6 +1,6 @@
 ---
 layout: page
-title: # function-parentheses-newline-inside
+title: function-parentheses-newline-inside
 permalink: docs/src/rules/function-parentheses-newline-inside/README/
 ---
 

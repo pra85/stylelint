@@ -1,6 +1,6 @@
 ---
 layout: page
-title: # media-feature-range-operator-space-after
+title: media-feature-range-operator-space-after
 permalink: docs/src/rules/media-feature-range-operator-space-after/README/
 ---
 

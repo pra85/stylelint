@@ -1,6 +1,6 @@
 ---
 layout: page
-title: # rule-nested-empty-line-before
+title: rule-nested-empty-line-before
 permalink: docs/src/rules/rule-nested-empty-line-before/README/
 ---
 

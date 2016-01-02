@@ -1,6 +1,6 @@
 ---
 layout: page
-title: # property-no-vendor-prefix
+title: property-no-vendor-prefix
 permalink: docs/src/rules/property-no-vendor-prefix/README/
 ---
 

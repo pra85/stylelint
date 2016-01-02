@@ -1,6 +1,6 @@
 ---
 layout: page
-title: # rule-no-shorthand-property-overrides
+title: rule-no-shorthand-property-overrides
 permalink: docs/src/rules/rule-no-shorthand-property-overrides/README/
 ---
 

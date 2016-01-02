@@ -1,6 +1,6 @@
 ---
 layout: page
-title: # color-hex-case
+title: color-hex-case
 permalink: docs/src/rules/color-hex-case/README/
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: # rule-properties-order
+title: rule-properties-order
 permalink: docs/src/rules/rule-properties-order/README/
 ---
 

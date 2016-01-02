@@ -1,6 +1,6 @@
 ---
 layout: page
-title: # selector-root-no-composition
+title: selector-root-no-composition
 permalink: docs/src/rules/selector-root-no-composition/README/
 ---
 

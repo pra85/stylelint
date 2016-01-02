@@ -1,6 +1,6 @@
 ---
 layout: page
-title: # declaration-block-semicolon-newline-after
+title: declaration-block-semicolon-newline-after
 permalink: docs/src/rules/declaration-block-semicolon-newline-after/README/
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: # max-line-length
+title: max-line-length
 permalink: docs/src/rules/max-line-length/README/
 ---
 

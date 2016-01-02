@@ -1,6 +1,6 @@
 ---
 layout: page
-title: # at-rule-no-vendor-prefix
+title: at-rule-no-vendor-prefix
 permalink: docs/src/rules/at-rule-no-vendor-prefix/README/
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: # selector-no-vendor-prefix
+title: selector-no-vendor-prefix
 permalink: docs/src/rules/selector-no-vendor-prefix/README/
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: # color-hex-length
+title: color-hex-length
 permalink: docs/src/rules/color-hex-length/README/
 ---
 

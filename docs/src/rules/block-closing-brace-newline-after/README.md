@@ -1,6 +1,6 @@
 ---
 layout: page
-title: # block-closing-brace-newline-after
+title: block-closing-brace-newline-after
 permalink: docs/src/rules/block-closing-brace-newline-after/README/
 ---
 

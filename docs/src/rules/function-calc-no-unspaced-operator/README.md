@@ -1,6 +1,6 @@
 ---
 layout: page
-title: # function-calc-no-unspaced-operator
+title: function-calc-no-unspaced-operator
 permalink: docs/src/rules/function-calc-no-unspaced-operator/README/
 ---
 

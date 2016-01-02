@@ -1,6 +1,6 @@
 ---
 layout: page
-title: # custom-media-pattern
+title: custom-media-pattern
 permalink: docs/src/rules/custom-media-pattern/README/
 ---
 

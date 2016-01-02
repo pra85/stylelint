@@ -1,6 +1,6 @@
 ---
 layout: page
-title: # number-no-trailing-zeros
+title: number-no-trailing-zeros
 permalink: docs/src/rules/number-no-trailing-zeros/README/
 ---
 

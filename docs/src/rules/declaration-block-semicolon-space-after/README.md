@@ -1,6 +1,6 @@
 ---
 layout: page
-title: # declaration-block-semicolon-space-after
+title: declaration-block-semicolon-space-after
 permalink: docs/src/rules/declaration-block-semicolon-space-after/README/
 ---
 

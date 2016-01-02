@@ -1,6 +1,6 @@
 ---
 layout: page
-title: # media-feature-colon-space-before
+title: media-feature-colon-space-before
 permalink: docs/src/rules/media-feature-colon-space-before/README/
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: # declaration-colon-space-after
+title: declaration-colon-space-after
 permalink: docs/src/rules/declaration-colon-space-after/README/
 ---
 

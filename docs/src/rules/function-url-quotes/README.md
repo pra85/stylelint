@@ -1,6 +1,6 @@
 ---
 layout: page
-title: # function-url-quotes
+title: function-url-quotes
 permalink: docs/src/rules/function-url-quotes/README/
 ---
 

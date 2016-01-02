@@ -1,6 +1,6 @@
 ---
 layout: page
-title: # value-list-comma-newline-after
+title: value-list-comma-newline-after
 permalink: docs/src/rules/value-list-comma-newline-after/README/
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: # value-list-comma-space-before
+title: value-list-comma-space-before
 permalink: docs/src/rules/value-list-comma-space-before/README/
 ---
 

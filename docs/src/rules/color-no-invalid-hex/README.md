@@ -1,6 +1,6 @@
 ---
 layout: page
-title: # color-no-invalid-hex
+title: color-no-invalid-hex
 permalink: docs/src/rules/color-no-invalid-hex/README/
 ---
 

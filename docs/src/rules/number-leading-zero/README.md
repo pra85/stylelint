@@ -1,6 +1,6 @@
 ---
 layout: page
-title: # number-leading-zero
+title: number-leading-zero
 permalink: docs/src/rules/number-leading-zero/README/
 ---
 

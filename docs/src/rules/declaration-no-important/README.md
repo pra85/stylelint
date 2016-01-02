@@ -1,6 +1,6 @@
 ---
 layout: page
-title: # declaration-no-important
+title: declaration-no-important
 permalink: docs/src/rules/declaration-no-important/README/
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: # color-no-hex
+title: color-no-hex
 permalink: docs/src/rules/color-no-hex/README/
 ---
 

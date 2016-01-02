@@ -1,6 +1,6 @@
 ---
 layout: page
-title: # indentation
+title: indentation
 permalink: docs/src/rules/indentation/README/
 ---
 

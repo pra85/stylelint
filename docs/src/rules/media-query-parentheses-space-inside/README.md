@@ -1,6 +1,6 @@
 ---
 layout: page
-title: # media-query-parentheses-space-inside
+title: media-query-parentheses-space-inside
 permalink: docs/src/rules/media-query-parentheses-space-inside/README/
 ---
 

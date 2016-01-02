@@ -1,6 +1,6 @@
 ---
 layout: page
-title: # block-opening-brace-space-after
+title: block-opening-brace-space-after
 permalink: docs/src/rules/block-opening-brace-space-after/README/
 ---
 

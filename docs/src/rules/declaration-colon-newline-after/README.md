@@ -1,6 +1,6 @@
 ---
 layout: page
-title: # declaration-colon-newline-after
+title: declaration-colon-newline-after
 permalink: docs/src/rules/declaration-colon-newline-after/README/
 ---
 

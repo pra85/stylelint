@@ -1,6 +1,6 @@
 ---
 layout: page
-title: # number-max-precision
+title: number-max-precision
 permalink: docs/src/rules/number-max-precision/README/
 ---
 

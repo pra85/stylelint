@@ -1,6 +1,6 @@
 ---
 layout: page
-title: # number-zero-length-no-unit
+title: number-zero-length-no-unit
 permalink: docs/src/rules/number-zero-length-no-unit/README/
 ---
 

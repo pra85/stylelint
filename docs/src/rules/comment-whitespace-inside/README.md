@@ -1,6 +1,6 @@
 ---
 layout: page
-title: # comment-whitespace-inside
+title: comment-whitespace-inside
 permalink: docs/src/rules/comment-whitespace-inside/README/
 ---
 

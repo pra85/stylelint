@@ -1,6 +1,6 @@
 ---
 layout: page
-title: # media-query-list-comma-newline-after
+title: media-query-list-comma-newline-after
 permalink: docs/src/rules/media-query-list-comma-newline-after/README/
 ---
 

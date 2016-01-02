@@ -1,6 +1,6 @@
 ---
 layout: page
-title: # function-parentheses-space-inside
+title: function-parentheses-space-inside
 permalink: docs/src/rules/function-parentheses-space-inside/README/
 ---
 

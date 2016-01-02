@@ -1,6 +1,6 @@
 ---
 layout: page
-title: # media-feature-name-no-vendor-prefix
+title: media-feature-name-no-vendor-prefix
 permalink: docs/src/rules/media-feature-name-no-vendor-prefix/README/
 ---
 

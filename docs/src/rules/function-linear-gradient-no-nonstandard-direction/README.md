@@ -1,6 +1,6 @@
 ---
 layout: page
-title: # function-linear-gradient-no-nonstandard-direction
+title: function-linear-gradient-no-nonstandard-direction
 permalink: docs/src/rules/function-linear-gradient-no-nonstandard-direction/README/
 ---
 

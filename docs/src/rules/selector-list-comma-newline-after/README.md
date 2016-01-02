@@ -1,6 +1,6 @@
 ---
 layout: page
-title: # selector-list-comma-newline-after
+title: selector-list-comma-newline-after
 permalink: docs/src/rules/selector-list-comma-newline-after/README/
 ---
 

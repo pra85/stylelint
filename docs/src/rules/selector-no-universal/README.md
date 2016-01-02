@@ -1,6 +1,6 @@
 ---
 layout: page
-title: # selector-no-universal
+title: selector-no-universal
 permalink: docs/src/rules/selector-no-universal/README/
 ---
 

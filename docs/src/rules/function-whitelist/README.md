@@ -1,6 +1,6 @@
 ---
 layout: page
-title: # function-whitelist
+title: function-whitelist
 permalink: docs/src/rules/function-whitelist/README/
 ---
 

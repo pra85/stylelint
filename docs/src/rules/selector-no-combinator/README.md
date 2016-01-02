@@ -1,6 +1,6 @@
 ---
 layout: page
-title: # selector-no-combinator
+title: selector-no-combinator
 permalink: docs/src/rules/selector-no-combinator/README/
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: # selector-no-attribute
+title: selector-no-attribute
 permalink: docs/src/rules/selector-no-attribute/README/
 ---
 

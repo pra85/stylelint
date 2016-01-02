@@ -1,6 +1,6 @@
 ---
 layout: page
-title: # root-no-standard-properties
+title: root-no-standard-properties
 permalink: docs/src/rules/root-no-standard-properties/README/
 ---
 

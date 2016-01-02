@@ -1,6 +1,6 @@
 ---
 layout: page
-title: # block-opening-brace-newline-before
+title: block-opening-brace-newline-before
 permalink: docs/src/rules/block-opening-brace-newline-before/README/
 ---
 
