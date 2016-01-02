@@ -1,6 +1,6 @@
 ---
 layout: page
-title: CSS Processors
+title: CSS processors
 permalink: docs/user-guide/css-processors/
 ---
 

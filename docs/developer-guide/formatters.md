@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Formatters
+title: Writing formatters
 permalink: docs/developer-guide/formatters/
 ---
 

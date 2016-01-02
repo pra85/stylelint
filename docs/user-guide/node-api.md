@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Node API
+title: The stylelint Node API
 permalink: docs/user-guide/node-api/
 ---
 

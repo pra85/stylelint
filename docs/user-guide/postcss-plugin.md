@@ -1,6 +1,6 @@
 ---
 layout: page
-title: PostCSS Plugin
+title: The stylelint PostCSS Plugin
 permalink: docs/user-guide/postcss-plugin/
 ---
 

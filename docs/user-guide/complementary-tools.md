@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Complementary Tools
+title: Complementary tools
 permalink: docs/user-guide/complementary-tools/
 ---
 

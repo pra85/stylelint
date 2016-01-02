@@ -1,6 +1,6 @@
 ---
 layout: page
-title: CLI
+title: The stylelint CLI
 permalink: docs/user-guide/cli/
 ---
 

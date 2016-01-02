@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Rules
+title: Writing rules
 permalink: docs/developer-guide/rules/
 ---
 

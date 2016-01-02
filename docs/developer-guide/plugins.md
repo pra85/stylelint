@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Plugins
+title: Writing plugins
 permalink: docs/developer-guide/plugins/
 ---
 
