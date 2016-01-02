@@ -4,14 +4,10 @@ var toYAML = require('./toYAML');
 var wrap = require('./wrap');
 var last = require('./last');
 
-module.exports = function (path, properties) {
+module.exports = function (path, contents, properties) {
   var newProps = properties || {
     layout: 'page',
-    title: last(path.split('/'))
-      .replace(/\.\w{2,4}$/, '')
-      .split('-')
-      .map(setWordCase)
-      .join(' '),
+    title: contents.match(/#\s?(.*)/)[1],
     permalink: path.replace(/\.md$/, '/')
   }
 
