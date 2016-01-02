@@ -1,6 +1,7 @@
 {
   "scripts": {
-    "docs": "node ./tasks/process-docs"
+    "docs": "node ./tasks/process-docs",
+    "start": "jekyll serve"
   },
   "devDependencies": {
     "glob": "^6.0.3"
