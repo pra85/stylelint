@@ -1,11 +1,12 @@
 {
   "scripts": {
-    "update-files": "sh ./tasks/update-files.sh",
+    "update-files": "node ./tasks/update-files.js",
     "process-docs": "node ./tasks/process-docs",
     "docs": "npm run update-files && npm run process-docs",
     "start": "jekyll serve"
   },
   "devDependencies": {
-    "glob": "^6.0.3"
+    "glob": "^6.0.3",
+    "rimraf": "^2.5.0"
   }
 }
